@@ -2,7 +2,7 @@
 --q = Fix Knife
 
 
-me = game.Players.LocalPlayer
+ajcoop2014 = game.all.hospital roleplay
 char = me.Character
 selected = false
 attacking = false
